@@ -1,3 +1,4 @@
+```mermaid
 ---
 title: IPhone Funcionalidades
 ---
@@ -25,3 +26,4 @@ classDiagram
     Iphone --|> ReprodutorMusical
     Iphone --|> AparelhoTelefonico
     Iphone --|> NavegadorInternet
+```
